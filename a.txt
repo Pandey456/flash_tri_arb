@@ -1,0 +1,2 @@
+# Example: Give your Servant wallet 1,000 USDC on your local fork
+cast rpc anvil_setBalance $S__PRIVATE_KEY 10000000000000000000 --rpc-url http://127.0.0.1:8545
