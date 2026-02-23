@@ -110,7 +110,7 @@ npm-debug.log*
 Thumbs.db
 ```
 
-###4. Deployment Script (script/Deploy.s.sol)
+### 4. Deployment Script (script/Deploy.s.sol)
 The finalized script for your specific constructor.
 
 ```
